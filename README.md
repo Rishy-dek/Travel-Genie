@@ -1,9 +1,23 @@
-# 🚀 Travel-Genie
+<dev align = "center">
 
-**Live Demo:** <https://travel-genie--rishaannandan9.replit.app>
+![https://replit.com/cdn-cgi/image/width=128,quality=80,format=auto/https://storage.googleapis.com/replit/images/1766866019980_547f64dbeca56e2966407975525ee9ce.png](https://replit.com/cdn-cgi/image/width=128,quality=80,format=auto/https://storage.googleapis.com/replit/images/1766866019980_547f64dbeca56e2966407975525ee9ce.png)
+
+</dev>
+
+<dev align = "center">
+
+# <p style="color: #CB8362">✈️ Travel Genie</p>
+
+</dev>
+
+<dev align = "center">
 
 **Description**  
 Travel-Genie is a web app that helps users plan trips effortlessly. Enter a destination and travel preferences, then get personalized itineraries, suggestions, and travel details — powered by modern web technologies and AI-assisted logic.
+
+**Live Demo:** <https://travel-genie--rishaannandan9.replit.app>
+
+</dev>
 
 ---
 
