@@ -85,7 +85,7 @@ Travel-Genie is a web app that helps users plan trips effortlessly. Enter a dest
 
 > *AI - OpenAI API*
 
-- **Hosting / Deployment:** Replit
+- **Hosting / Deployment / Code Creation:** Replit      ![Replit Logo](client/public/favicon.png)
 
 ---
 
