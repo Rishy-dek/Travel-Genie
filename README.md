@@ -10,9 +10,9 @@
 
 </dev>
 
-
-
 ![GitHub stars](https://img.shields.io/github/stars/Rishy-dek/Travel-Genie) ![Repository License](https://img.shields.io/github/license/Rishy-dek/Travel-Genie) ![Repository's Last Commit](https://img.shields.io/github/last-commit/Rishy-dek/Travel-Genie) ![Repository's Contributors](https://img.shields.io/github/contributors/Rishy-dek/Travel-Genie) ![GitHub Forks](https://img.shields.io/github/forks/Rishy-dek/Travel-Genie) 
+
+![GitHub stars](https://img.shields.io/github/stars/Rishy-dek/Travel-Genie)
 
 **Description**  
 Travel-Genie is a web app that helps users plan trips effortlessly. Enter a destination and travel preferences, then get personalized itineraries, suggestions, and travel details — powered by modern web technologies and AI-assisted logic.
