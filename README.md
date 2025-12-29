@@ -12,6 +12,8 @@
 
 <dev align = "center">
 
+![GitHub stars](https://img.shields.io/github/stars/Rishy-dek/Travel-Genie) 
+
 **Description**  
 Travel-Genie is a web app that helps users plan trips effortlessly. Enter a destination and travel preferences, then get personalized itineraries, suggestions, and travel details — powered by modern web technologies and AI-assisted logic.
 
