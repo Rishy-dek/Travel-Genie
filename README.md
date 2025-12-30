@@ -26,7 +26,7 @@
 ## Events
 
 <p align="center">
-  ✨🌀✨           ✨🌀✨ 
+  ✨🌀✨           
 </p>
 
 <p align="center">
@@ -36,10 +36,13 @@
   <a href="https://discord.gg/pbPkAvwE?event=1455664733205168355">
     <img src="https://img.shields.io/badge/🚀%20RoadMap%20Discussion-Join%20Live%20on%20Discord-5865F2?logo=discord&style=for-the-badge">
   </a>
+  <a href="https://discord.gg/JCuVaFV5?event=1455667476443693076">
+    <img src="https://img.shields.io/badge/🚀%20Beta%20Testing%20Walkthrough-Join%20Live%20on%20Discord-5865F2?logo=discord&style=for-the-badge">
+  </a>
 </p>
 
 <p align="center">
-  ✨🌀✨           ✨🌀✨ 
+  ✨🌀✨           
 </p>
 
 
