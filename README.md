@@ -31,16 +31,17 @@
 
 <p align="center">
   <a href="https://discord.gg/chCJ3kpZ?event=1455663392965525698">
-    <img src="https://img.shields.io/badge/🚀%20Feature%20Demo-Join%20Us%20on%20Discord-5865F2?logo=discord&style=for-the-badge">
+    <img src="https://img.shields.io/badge/🚀%20Feature%20Demo-Join us on Thursdays-5865F2?logo=discord&style=for-the-badge">
   </a>
   <a href="https://discord.gg/pbPkAvwE?event=1455664733205168355">
-    <img src="https://img.shields.io/badge/🚀%20RoadMap%20Discussion-Join%20Live%20on%20Discord-5865F2?logo=discord&style=for-the-badge">
+    <img src="https://img.shields.io/badge/🚀%20RoadMap%20Discussion-Join us on Fridays-5865F2?logo=discord&style=for-the-badge">
   </a>
   <a href="https://discord.gg/JCuVaFV5?event=1455667476443693076">
-    <img src="https://img.shields.io/badge/🚀%20Beta%20Testing%20Walkthrough-Join%20Live%20on%20Discord-5865F2?logo=discord&style=for-the-badge">
+    <img src="https://img.shields.io/badge/🚀%20Beta%20Testing%20Walkthrough-Join us on Saturdays-5865F2?logo=discord&style=for-the-badge">
   </a>
   <a href="https://discord.gg/D3N5MabQ?event=1455669391097069659">
-    <img src="https://img.shields.io/badge/🚀%20Community%20Q&A-Join%20Live%20on%20Discord-5865F2?logo=discord&style=for-the-badge">
+    <img src="https://img.shields.io/badge/🚀%20Community%20Q&A-Join us on Mondays-5865F2?logo=discord&style=for-the-badge">
+  </a>
 </p>
 
 <p align="center">
