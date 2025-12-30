@@ -10,7 +10,7 @@
 
 </dev>
 
-![GitHub stars](https://img.shields.io/github/stars/Rishy-dek/Travel-Genie) ![Repository License](https://img.shields.io/github/license/Rishy-dek/Travel-Genie) ![Repository's Last Commit](https://img.shields.io/github/last-commit/Rishy-dek/Travel-Genie) ![Repository's Contributors](https://img.shields.io/github/contributors/Rishy-dek/Travel-Genie) ![GitHub Forks](https://img.shields.io/github/forks/Rishy-dek/Travel-Genie) 
+![GitHub stars](https://img.shields.io/github/stars/Rishy-dek/Travel-Genie) ![Repository License](https://img.shields.io/github/license/Rishy-dek/Travel-Genie) ![Repository's Last Commit](https://img.shields.io/github/last-commit/Rishy-dek/Travel-Genie) ![Repository's Contributors](https://img.shields.io/github/contributors/Rishy-dek/Travel-Genie) ![GitHub Forks](https://img.shields.io/github/forks/Rishy-dek/Travel-Genie) ![GitHub Forks](https://img.shields.io/github/downloads/Rishy-dek/Travel-Genie/total)
 
 [![Join Discord](https://img.shields.io/badge/Discord-Join%20Our%20Server-5865F2?logo=discord)](https://discord.gg/ykUv4kfg) [![Live Demo](https://img.shields.io/badge/Live-demo-Green?logo=live)](https://travel-genie--rishaannandan9.replit.app)
 
