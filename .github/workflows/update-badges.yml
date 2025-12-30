@@ -1,0 +1,63 @@
+name: Update Discord Event Badges
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs daily at midnight UTC
+  workflow_dispatch: # Manual trigger
+
+jobs:
+  update-badges:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set day variable
+        id: day
+        run: |
+          echo "DAY=$(date +'%A')" >> $GITHUB_ENV
+
+      - name: Update README badges
+        run: |
+          # Read README
+          FILE=README.md
+          
+          # Feature Demo Badge
+          if [ "$DAY" = "Thursday" ]; then
+            FEATURE_TEXT="Join us live!"
+          else
+            FEATURE_TEXT="Join us on Thursdays"
+          fi
+          sed -i "s|🚀 Feature Demo-.*-5865F2|🚀 Feature Demo-${FEATURE_TEXT}-5865F2|g" $FILE
+
+          # Roadmap Discussion Badge
+          if [ "$DAY" = "Friday" ]; then
+            ROADMAP_TEXT="Join us live!"
+          else
+            ROADMAP_TEXT="Join us on Fridays"
+          fi
+          sed -i "s|🚀 RoadMap Discussion-.*-5865F2|🚀 RoadMap Discussion-${ROADMAP_TEXT}-5865F2|g" $FILE
+
+          # Beta Testing Walkthrough Badge
+          if [ "$DAY" = "Saturday" ]; then
+            BETA_TEXT="Join us live!"
+          else
+            BETA_TEXT="Join us on Saturdays"
+          fi
+          sed -i "s|🚀 Beta Testing Walkthrough-.*-5865F2|🚀 Beta Testing Walkthrough-${BETA_TEXT}-5865F2|g" $FILE
+
+          # Community Q&A Badge
+          if [ "$DAY" = "Monday" ]; then
+            QA_TEXT="Join us live!"
+          else
+            QA_TEXT="Join us on Mondays"
+          fi
+          sed -i "s|🚀 Community Q&A-.*-5865F2|🚀 Community Q&A-${QA_TEXT}-5865F2|g" $FILE
+
+      - name: Commit changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Update Discord event badges for $DAY" || echo "No changes"
+          git push
