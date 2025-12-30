@@ -1,8 +1,8 @@
-<img align = "center">
+<img align = "center"
 
-[![Travel-Genie Logo](https://replit.com/cdn-cgi/image/width=128,quality=80,format=auto/https://storage.googleapis.com/replit/images/1766866019980_547f64dbeca56e2966407975525ee9ce.png)](https://travel-genie--rishaannandan9.replit.app)
+[![Travel-Genie Logo](https://replit.com/cdn-cgi/image/width=128,quality=80,format=auto/https://storage.googleapis.com/replit/images/1766866019980_547f64dbeca56e2966407975525ee9ce.png)](https://travel-genie--rishaannandan9.replit.app)>
 
-</img>
+
 
 # <p style="color: #CB8362">✈️ Travel Genie</p>
 
