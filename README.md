@@ -39,6 +39,8 @@
   <a href="https://discord.gg/JCuVaFV5?event=1455667476443693076">
     <img src="https://img.shields.io/badge/🚀%20Beta%20Testing%20Walkthrough-Join%20Live%20on%20Discord-5865F2?logo=discord&style=for-the-badge">
   </a>
+  <a href="https://discord.gg/D3N5MabQ?event=1455669391097069659">
+    <img src="https://img.shields.io/badge/🚀%20Community%20Q&A-Join%20Live%20on%20Discord-5865F2?logo=discord&style=for-the-badge">
 </p>
 
 <p align="center">
